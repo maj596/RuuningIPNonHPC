@@ -1,0 +1,6 @@
+model_checkpoint_path: "/scratch/maj596/github/newipn/2023logs/checkpoints/model.ckpt-80"
+all_model_checkpoint_paths: "/scratch/maj596/github/newipn/2023logs/checkpoints/model.ckpt-40"
+all_model_checkpoint_paths: "/scratch/maj596/github/newipn/2023logs/checkpoints/model.ckpt-50"
+all_model_checkpoint_paths: "/scratch/maj596/github/newipn/2023logs/checkpoints/model.ckpt-60"
+all_model_checkpoint_paths: "/scratch/maj596/github/newipn/2023logs/checkpoints/model.ckpt-70"
+all_model_checkpoint_paths: "/scratch/maj596/github/newipn/2023logs/checkpoints/model.ckpt-80"
