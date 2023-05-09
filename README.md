@@ -20,6 +20,8 @@ For IPN V1 the gpu does not matter u can use either V100 or A100, but in IPNV2 i
 
 Also you can add ur email on  .sh script so you get notified when the file ends running to  make it easier for yourself.
 
+Also I didnt upload the log files since those are too large to upload here, but you can easily run and test the model using the google doc guide.
+
 
 
 
