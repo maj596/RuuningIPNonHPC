@@ -7,4 +7,12 @@ train.py
 test_faz.py
 test_rv.py
 lossfunc.py
+my .sh files to see what configurations on HPC i use like nodes, cpu, time, gpu, (turns out using -n 1 and  -c 10 is a good balance where the model runs quite fast) Though it  is upto anyone's preference, since Omnia uses -n 10, so one can experiment and see what they like. Also  you can add ur email on  .sh script so you get notified when the file ends running to  make it easier for yourself.
+
+
+
+
+
+
+
 
