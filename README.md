@@ -42,7 +42,11 @@ For IPN V1 the gpu does not matter u can use either V100 or A100, but in IPNV2 i
 
 Also you can add ur email on  .sh script so you get notified when the file ends running to  make it easier for yourself.
 
-Also I didnt upload the log files since those are too large to upload here, but you can easily run and test the model using the google doc guide.
+Also I didnt upload the log files since those are too large to upload here, but you can easily run and test the model using the google doc guide Omnia made.
+
+ipnv1 guide: https://docs.google.com/document/d/1dmheYCaPSNuEwJKtdrjEW_HmsZEsCBmQCj7u65_hmPQ/edit (tesing works with author's checkpoint, training is buggy) (better to stick  with this)
+
+ipnv2 guide: https://docs.google.com/document/u/2/d/1nPxpW4d4uHlv2Z1okkWgJK8GqOb4vb4EHFNqu5OPM0U/edit  (no authors checkpoints, training is buggy (so can't do testing), picking module versions is up to guesswork)
 
 
 
